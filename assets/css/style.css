@@ -919,6 +919,10 @@ blockquote b {
   margin-bottom: 10px;
 }
 
+.mb-0{
+  margin-bottom: 0;
+}
+
 .tmp-section-gap {
   padding: 120px 0;
 }
